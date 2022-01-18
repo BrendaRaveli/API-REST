@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vl0ojbh6zLye16rLNR59VOUMWQ7kzNwnGherGj+2PkA7u5NxR/fVjSNg9HRLNQwuF6+q6r3oTQ9tL2oBsuq0Bw==",
+  "success": true,
+  "projectFilePath": "D:\\Materias de estudos\\Projetos\\API-rest angular\\Back\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brenda.raveli\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\brenda.raveli\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
